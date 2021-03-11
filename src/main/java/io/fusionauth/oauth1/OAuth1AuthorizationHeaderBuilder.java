@@ -14,6 +14,8 @@
  * language governing permissions and limitations under the License.
  */
 
+package io.fusionauth.oauth1;
+
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.StandardCharsets;

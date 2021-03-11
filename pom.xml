@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.fusionauth</groupId>
-  <artifactId>oauth-v1-authorization</artifactId>
+  <artifactId>fusionauth-oauth1</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
@@ -41,8 +41,8 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:ssh://github.com:FusionAuth/oauth-v1-authorization</connection>
-    <url>https://github.com/FusionAuth/oauth-v1-authorization</url>
+    <connection>scm:git:ssh://github.com:FusionAuth/fusionauth-oauth1</connection>
+    <url>https://github.com/FusionAuth/fusionauth-oauth1</url>
   </scm>
 
   <properties>
@@ -137,5 +137,3 @@
   </profiles>
 
 </project>
-
-

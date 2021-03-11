@@ -14,6 +14,8 @@
  * language governing permissions and limitations under the License.
  */
 
+package io.fusionauth.oauth1;
+
 import org.testng.annotations.Test;
 
 /**

@@ -23,7 +23,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/oauth-v1-authorization.iml" filepath="$PROJECT_DIR$/oauth-v1-authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fusionauth-oauth1.iml" filepath="$PROJECT_DIR$/fusionauth-oauth1.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
